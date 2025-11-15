@@ -6,13 +6,13 @@ I love working at the intersection of data, machine learning, and modern AI agen
 
 I enjoy designing end-to-end solutions: from data pipelines and databases, to ML models, RAG systems, and APIs that actually ship and deliver value.
 
-- 🎯 Focused on **AI Engineering, Data Engineering, and Agentic AI systems**.
-- 🧩 Experienced with **RAG pipelines, OCR, compliance systems, and LLM-based agents**.
-- 🛠 Building products using **Python, FastAPI, Streamlit, Supabase, Postgres, and vector databases**.
-- 🤝 V-Leader at **OSS (Open Source Systems)** community, leading AI and Dev committees.
-- 📂 Worked on projects like compliance platforms, shopping agents, PDF toolkits, and hours tracking dashboards.
-- 📫 Reach me at: **abooahmed1423@gmail.com**
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdulrahman-alkholaifi-1a3a1b279?)
+-  Focused on **AI Engineering, Data Engineering, and Agentic AI systems**.
+-  Experienced with **RAG pipelines, OCR, compliance systems, and LLM-based agents**.
+-  Building products using **Python, FastAPI, Streamlit, Supabase, Postgres, and vector databases**.
+-  V-Leader at **OSS (Open Source Systems)** community, leading AI and Dev committees.
+-  Worked on projects like compliance platforms, shopping agents, PDF toolkits, and hours tracking dashboards.
+-  Reach me at: **abooahmed1423@gmail.com**
+-  Connect with me on [LinkedIn](https://www.linkedin.com/in/abdulrahman-alkholaifi-1a3a1b279?)
 
 ---
 
