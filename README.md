@@ -11,7 +11,7 @@ I enjoy designing end-to-end solutions: from data pipelines and databases, to ML
 -  Building products using **Python, FastAPI, Streamlit, Supabase, Postgres, and vector databases**.
 -  V-Leader at **OSS (Open Source Systems)** community, leading AI and Dev committees.
 -  Worked on projects like compliance platforms, shopping agents, PDF toolkits, and hours tracking dashboards.
--  Reach me at: **abooahmed1423@gmail.com**
+-  Reach me at: **abdulrahman.alkholaifi1@gmail.com**
 -  Connect with me on [LinkedIn](https://www.linkedin.com/in/abdulrahman-alkholaifi-1a3a1b279?)
 
 ---
