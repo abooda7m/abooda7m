@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdulrahman</h1>
-<h3 align="center">AI Engineer | Data & Agentic Systems | Tech Community Leader</h3>
+<h3 align="center">AI & Data Engineer | Agentic Systems | Project Manager </h3>
 
 I'm a Computer Science student and AI engineer focused on building real, production-grade systems.  
 I love working at the intersection of data, machine learning, and modern AI agents to solve practical problems for organizations.
@@ -8,9 +8,8 @@ I enjoy designing end-to-end solutions: from data pipelines and databases, to ML
 
 -  Focused on **AI Engineering, Data Engineering, and Agentic AI systems**.
 -  Experienced with **RAG pipelines, OCR, compliance systems, and LLM-based agents**.
--  Building products using **Python, FastAPI, Streamlit, Supabase, Postgres, and vector databases**.
--  V-Leader at **OSS (Open Source Systems)** community, leading AI and Dev committees.
--  Worked on projects like compliance platforms, shopping agents, PDF toolkits, and hours tracking dashboards.
+-  Building products using **Python, FastAPI, RAG, Docker, MCP, GCP, Supabase, Postgres, and vector databases**.
+-  Worked on projects like compliance platforms, shopping agents, RAG systems, sales dashboards.
 -  Reach me at: **abdulrahman.alkholaifi1@gmail.com**
 -  Connect with me on [LinkedIn](https://www.linkedin.com/in/abdulrahman-alkholaifi-1a3a1b279?)
 
@@ -20,7 +19,7 @@ I enjoy designing end-to-end solutions: from data pipelines and databases, to ML
 
 - End-to-end **AI systems**: data ingestion, preprocessing, modeling, evaluation, and deployment.
 - **RAG and Agentic AI**: building agents that use tools, retrieve knowledge, and interact with real systems.
-- **Data Engineering**: designing pipelines, working with relational databases, and analytics dashboards.
+- **Data Engineering**: designing pipelines, ETL, working with databases, Modeling and analytics dashboards.
 - **APIs and Backends**: FastAPI services, authentication, and integrations with external APIs.
 - **Dashboards and Internal Tools**: Streamlit apps for monitoring, analytics, and decision support.
 
